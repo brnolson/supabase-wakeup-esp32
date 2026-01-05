@@ -10,7 +10,7 @@ const char* SUPABASE_HOST = "YOUR_PROJECT_ID.supabase.co"; // ensure no https://
 const char* SUPABASE_ANON_KEY = "YOUR_ANON_KEY";
 
 // Table info
-const char* TABLE_NAME = "save_the_dates";
+const char* TABLE_NAME = "CHOOSE_YOUR_TABLE";
 const char* COLUMN_NAME = "id";
 
 #endif
